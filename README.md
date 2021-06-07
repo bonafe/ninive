@@ -37,5 +37,5 @@ Agora...
 
   
 ## Inspiração do nome
-<p><a href="https://pt.wikipedia.org/wiki/N%C3%ADnive">Nínive()</a>, considerada uma das primeiras bibliotecas, data do século 7 a.C.
+<p><a href="https://pt.wikipedia.org/wiki/N%C3%ADnive">Nínive</a>, considerada uma das primeiras bibliotecas, data do século 7 a.C.
   
