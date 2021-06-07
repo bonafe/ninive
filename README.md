@@ -11,7 +11,7 @@ Este projeto se destina a criação de uma biblioteca pessoal que roda no navega
 3. Tutorial de como criar credênciais para automatizar o acesso ao Telegram[Agosto/2020].
 
 ### 2ª Fase
-1. Tutorial de como ter uma instância Matrix self-hosted [Agosto/2020].
+1. Tutorial de como ter uma instância <a href="https://matrix.org/">Matrix</a> self-hosted [Agosto/2020].
 2. Programa em Python que recuperar as informações do Matrix e gerar um arquivo JSON Ninive-Mensagem-Matrix (ninive-mensagem-matrix-v1.0.json)[Setembro/2020].
 3. Adicionar arquivo Ninive-Mensagem-Matrix a Interface Ninive[Agosto/2020].
 4. Encontro com a comunidade: levantamento das próximas fontes de dados[Setembro/2020].
