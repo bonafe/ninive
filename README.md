@@ -2,6 +2,8 @@
 
 Este projeto se destina a criação de uma biblioteca pessoal que roda no navegador e sistematiza as informações de interação do usuário com a internet.
 
+### Grupo de Comunicação
+<a href="https://t.me/projeto_ninive">Projeto Ninive no Telegram</a>
 
 ### 1ª Fase
 1. Programa em Python que recuperar as informações do Telegram e gerar um arquivo JSON Ninive-Mensagem-Telegram (ninive-mensagem-telegram-v1.0.json). [Junho/2020]
