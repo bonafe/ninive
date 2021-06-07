@@ -26,7 +26,7 @@ Este projeto se destina a criação de uma biblioteca pessoal que roda no navega
 2. Acreditamos que os usuários devam saber quais informações deles foram para terceiros e o que esses terceiros se comprometeram a fazer com suas informações (implementação da LGPD no lado do cliente).
 3. Acreditamos que os usuários devem ter acesso a mecanismos automáticos, controlados pelo próprio usuário, que facilitem a deleção de suas informações hospedadas em terceiros.
 4. Acreditamos que as informações de terceiros em posse do usuário devem ter mecanismos facilitados de deleção pela vontade do terceiro.
-5. Acreditamos que os usuários devem ser ajudados no cumprimento do desejo da coletividade com a qual interage (as leis dos países, o desejo das comunidades).
+5. Acreditamos que os usuários devem ser ajudados no cumprimento do desejo da coletividade com a qual interage (as leis dos países, o desejo das comunidades e das outras pessoas).
 
 ## Contexto
 
