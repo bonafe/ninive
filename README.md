@@ -28,10 +28,11 @@ Este projeto se destina a criação de uma biblioteca pessoal que roda no navega
 5. Acreditamos que as informações de terceiros em posse do usuário devem ter mecanismos facilitados de deleção pela vontade do terceiro.
 
 ###Contexto
-O Século XXI presenciou a consolidação da difusão de informações pessoais. Chegamos no ano de 2021 inundados por informações, gerando informações descontroladamente e ansiosos por novas formas de navegar nesse mar informacional. 
-Também nos vemos deparamos com importantes questões sociais relacionadas a privacidade, ao direito de propriedade de seus próprios dados, imagens e sons.
-O Projeto Ninive surgiu para gerar aplicativos abertos e livres que rodem no lado do cliente, do usuário, para que ele tenha novas possibilidades de controlar suas informações, de navegar por elas, de saber onde elas estão.
-O projeto surgiu a partir do pedido do GT HabitAção, grupo de trabalho em geração de conteúdo e curadoria de materais relacionados à bioconstrução, que tem usado um grupo de Telegram para compartilhar vídeos e materiais sobre o assunto. Inicialmente o grupo iria subir um Wordpress self-hosted para sistematizar o conteúdo, como enfrentaram dificuldades em subir rapidamente essa solução, decidiram usar o próprio grupo do Telegram como base de dados. Para o grupo não virar um "saco de dados", como comento uma das participantes do grupo, decidiram usar o recursos de hashtags para classificar as informações enviadas e criar alguma forma de robô para sistematizar essas informaçoes posteriormente.
-Devido a potencial da ferramenta os desenvolvedores do projeto lançaram esse git hub para comunidade brasileira de hackerspaces.
+
+<p>O Século XXI presenciou a consolidação da difusão de informações pessoais. Chegamos no ano de 2021 inundados por informações, gerando informações descontroladamente e ansiosos por novas formas de navegar nesse mar informacional. 
+<p>Também nos vemos deparamos com importantes questões sociais relacionadas a privacidade, ao direito de propriedade de seus próprios dados, imagens e sons.
+<p>O Projeto Ninive surgiu para gerar aplicativos abertos e livres que rodem no lado do cliente, do usuário, para que ele tenha novas possibilidades de controlar suas informações, de navegar por elas, de saber onde elas estão.
+<p>O projeto surgiu a partir do pedido do GT HabitAção, grupo de trabalho em geração de conteúdo e curadoria de materais relacionados à bioconstrução, que tem usado um grupo de Telegram para compartilhar vídeos e materiais sobre o assunto. Inicialmente o grupo iria subir um Wordpress self-hosted para sistematizar o conteúdo, como enfrentaram dificuldades em subir rapidamente essa solução, decidiram usar o próprio grupo do Telegram como base de dados. Para o grupo não virar um "saco de dados", como comento uma das participantes do grupo, decidiram usar o recursos de hashtags para classificar as informações enviadas e criar alguma forma de robô para sistematizar essas informaçoes posteriormente.
+<p>Devido a potencial da ferramenta os desenvolvedores do projeto lançaram esse git hub para comunidade brasileira de hackerspaces.
 
 Agora...
