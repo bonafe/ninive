@@ -6,7 +6,7 @@ Este projeto se destina a criação de uma biblioteca pessoal que roda no navega
 <a href="https://t.me/projeto_ninive">Projeto Ninive no Telegram</a>
 
 ### 1ª Fase
-1. Programa em Python que recuperar as informações do Telegram e gerar um arquivo JSON Ninive-Mensagem-Telegram (ninive-mensagem-telegram-v1.0.json). [Junho/2020]
+1. Programa em Python que recuperar as informações do <a href="https://core.telegram.org/">Telegram</a> e gerar um arquivo JSON Ninive-Mensagem-Telegram (ninive-mensagem-telegram-v1.0.json). [Junho/2020]
 2. Interface Ninive em HTML, CSS e Javascript, reativa, single-page-application, offiline-first para navegação e visualização do arquivo Ninive-Mensagem-Telegram.[Julho/2020]
 3. Tutorial de como criar credênciais para automatizar o acesso ao Telegram[Agosto/2020].
 
