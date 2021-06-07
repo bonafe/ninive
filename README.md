@@ -30,10 +30,10 @@ Este projeto se destina a criação de uma biblioteca pessoal que roda no navega
 
 ## Contexto
 
-<p>O Século XXI presenciou a consolidação da difusão de informações pessoais. Chegamos no ano de 2021 inundados por informações, gerando informações descontroladamente e ansiosos por novas formas de navegar nesse mar informacional. 
-<p>Também nos vemos deparamos com importantes questões sociais relacionadas a privacidade, ao direito de propriedade de seus próprios dados, imagens e sons.
-<p>O Projeto Nínive surgiu para gerar aplicativos abertos e livres que rodem no lado do cliente, do usuário, para que ele tenha novas possibilidades de controlar suas informações, de navegar por elas, de saber onde elas estão.
-<p>O projeto surgiu a partir do pedido do GT HabitAção, grupo de trabalho em geração de conteúdo e curadoria de materiais relacionados à bioconstrução, que tem usado um grupo de Telegram para compartilhar vídeos e materiais sobre o assunto. Inicialmente o grupo iria subir um Wordpress self-hosted para sistematizar o conteúdo, como enfrentaram dificuldades em subir rapidamente essa solução, decidiram usar o próprio grupo do Telegram como base de dados. Para o grupo não virar um "saco de dados", como comento uma das participantes do grupo, decidiram usar o recursos de hashtags para classificar as informações enviadas e criar alguma forma de robô para sistematizar essas informações posteriormente.
-<p>Devido a potencial da ferramenta os desenvolvedores do projeto lançaram esse github para comunidade brasileira de hackerspaces.
+<p align="justify">O Século XXI presenciou a consolidação da difusão de informações pessoais. Chegamos no ano de 2021 inundados por informações, gerando informações descontroladamente e ansiosos por novas formas de navegar nesse mar informacional. 
+<p align="justify">Também nos vemos deparamos com importantes questões sociais relacionadas a privacidade, ao direito de propriedade de seus próprios dados, imagens e sons.
+<p align="justify">O Projeto Nínive surgiu para gerar aplicativos abertos e livres que rodem no lado do cliente, do usuário, para que ele tenha novas possibilidades de controlar suas informações, de navegar por elas, de saber onde elas estão.
+<p align="justify">O projeto surgiu a partir do pedido do GT HabitAção, grupo de trabalho em geração de conteúdo e curadoria de materiais relacionados à bioconstrução, que tem usado um grupo de Telegram para compartilhar vídeos e materiais sobre o assunto. Inicialmente o grupo iria subir um Wordpress self-hosted para sistematizar o conteúdo, como enfrentaram dificuldades em subir rapidamente essa solução, decidiram usar o próprio grupo do Telegram como base de dados. Para o grupo não virar um "saco de dados", como comento uma das participantes do grupo, decidiram usar o recursos de hashtags para classificar as informações enviadas e criar alguma forma de robô para sistematizar essas informações posteriormente.
+<p align="justify">Devido a potencial da ferramenta os desenvolvedores do projeto lançaram esse github para comunidade brasileira de hackerspaces.
 
 Agora...
