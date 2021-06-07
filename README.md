@@ -1,7 +1,4 @@
 # Nínive - Sua biblioteca pessoal
-<p>[Nínive(https://pt.wikipedia.org/wiki/N%C3%ADnive)], considerada uma das primeiras bibliotecas, data do século 7 a.C.
-
-
 
 Este projeto se destina a criação de uma biblioteca pessoal que roda no navegador e sistematiza as informações de interação do usuário com a internet.
 
@@ -37,3 +34,8 @@ Este projeto se destina a criação de uma biblioteca pessoal que roda no navega
 <p align="justify">Devido a potencial da ferramenta os desenvolvedores do projeto lançaram esse github para comunidade brasileira de hackerspaces.
 
 Agora...
+
+  
+## Inspiração do nome
+<p><a href="https://pt.wikipedia.org/wiki/N%C3%ADnive">Nínive()</a>, considerada uma das primeiras bibliotecas, data do século 7 a.C.
+  
